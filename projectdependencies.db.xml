@@ -1,0 +1,61 @@
+
+  <xmldatabase>
+    <metadata>
+      <dbname>
+        projectdependencies
+      </dbname>
+      <autocommit>
+        2
+      </autocommit>
+    </metadata>
+    <records>
+      <record>
+        <objectId>
+          interfaces
+        </objectId>
+        <item>
+          interfaces
+        </item>
+        <category>
+          package
+        </category>
+        <time>
+          
+        </time>
+        <description>
+          Contains Core Interfaces
+        </description>
+        <keys>
+        </keys>
+        <value>
+          <datastr>
+            Changed Value
+          </datastr>
+        </value>
+      </record>
+      <record>
+        <objectId>
+          project1
+        </objectId>
+        <item>
+          .library
+        </item>
+        <category>
+          Cpp
+        </category>
+        <time>
+          10:10
+        </time>
+        <description>
+          Changed desctription again.
+        </description>
+        <keys>
+        </keys>
+        <value>
+          <datastr>
+            DatabaseStructure.h
+          </datastr>
+        </value>
+      </record>
+    </records>
+  </xmldatabase>

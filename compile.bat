@@ -1,0 +1,1 @@
+devenv NoSQL.sln /rebuild debug
